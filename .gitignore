@@ -1,1 +1,9 @@
+.meteor/local
+.meteor/build
+.meteor/packages
+.meteor/versions
+
 node_modules/
+
+.idea/
+.vscode/
